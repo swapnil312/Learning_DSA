@@ -1,2 +1,3 @@
-s->arr[0] = 5;
-    s->top++;
+enqueue(&q, 45);
+    // enqueue(&q, 45);
+    // enqueue(&q, 45);
